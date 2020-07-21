@@ -11,6 +11,7 @@ local startingItems = {
 TUNING.AKECHIGORO_HEALTH = 200
 TUNING.AKECHIGORO_HUNGER = 200
 TUNING.AKECHIGORO_SANITY = 100
+TUNING.AKECHIGORO_HUNGER_RATE = TUNING.WILSON_HUNGER_RATE * 0.7
 
 -- Custom starting inventory
 TUNING.GAMEMODE_STARTING_ITEMS.DEFAULT.AKECHIGORO = {
@@ -102,9 +103,8 @@ local master_postinit = function(inst)
 	
 	-- Damage multiplier (optional)
     inst.components.combat.damagemultiplier = 1
-	
-	-- Hunger rate (optional)
-	inst.components.hunger.hungerrate = 0.3
+
+	inst.components.hunger:SetRate(TUNING.AKECHIGORO_HUNGER_RATE)
 	
 	inst.OnLoad = onload
 	inst.OnNewSpawn = onload
