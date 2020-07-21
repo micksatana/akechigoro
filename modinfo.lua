@@ -1,6 +1,6 @@
 -- This information tells other players more about the mod
 name = "Akechi Goro"
-description = "A high school detective nicknamed \"The Second Coming of the Detective Prince\""
+description = "A high school detective nicknamed \"The Second Coming of the Detective Prince\" on the way to kill Joker at the interrogation room but somehow fell into DST world. Can he survive a world full of monsters?"
 author = "Satana Charuwichitratana"
 version = "1.0.0" -- This is the version of the template. Change it to your own number.
 
