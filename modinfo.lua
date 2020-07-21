@@ -2,7 +2,7 @@
 name = "Akechi Goro"
 description = "A high school detective nicknamed \"The Second Coming of the Detective Prince\" on the way to kill Joker at the interrogation room but somehow fell into DST world. Can he survive a world full of monsters?"
 author = "Satana Charuwichitratana"
-version = "1.0.0" -- This is the version of the template. Change it to your own number.
+version = "1.0.1" -- This is the version of the template. Change it to your own number.
 
 -- This is the URL name of the mod's thread on the forum; the part after the ? and before the first & in the url
 forumthread = ""
