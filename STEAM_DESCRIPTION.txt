@@ -1,0 +1,37 @@
+[h1]Akechi Goro[/h1]
+
+[h2]Background[/h2]
+
+A high school detective nicknamed "The Second Coming of the Detective Prince" on the way to kill Joker at the interrogation room but somehow fell into DST world. Can he survive a world full of monsters?
+
+[h2]Stats[/h2]
+
+[list]
+  [*] Health 200
+  [*] Hunger 200
+  [*] Sanity 100
+[/list]
+
+[h2]Perks[/h2]
+
+[list]
+[*] SIG-Sauer P230 suppressed
+  [list]
+    [*] Long range, 100 damage
+    [*] Feed system, 8-round magazine (.32 ACP)
+  [/list]
+[*] Killer instinct
+  [list]
+    [*] Sanity increases 8 points per kill
+  [/list]
+[*] Trust no one
+  [list]
+    [*] Akechi's sanity reduce 0.5 point per second around other people
+  [/list]
+[*] Stay fit
+  [list]
+    [*] Eat less, hunger point reduce slower
+  [/list]
+[/list]
+
+[url=https://www.buymeacoffee.com/micksatana][img]https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=micksatana&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff[/img][/url]
